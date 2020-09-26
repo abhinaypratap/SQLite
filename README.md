@@ -29,6 +29,10 @@ sqlite> SELECT * FROM Person;
 ```sh
 sqlite> .quit
 ```
+```sh
+sqlite> .q
+```
+
 
 
 

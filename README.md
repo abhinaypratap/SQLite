@@ -35,7 +35,9 @@ sqlite> .q
 ```sh
 sqlite> .width 2 10 10 10 30 6
 ```
-
+```sh
+sqlite> .show
+```
 
 
 

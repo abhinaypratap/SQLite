@@ -21,6 +21,10 @@ sqlite> .schema
 ```sh
 sqlite> .schema tableName
 ```
+- To display the contents of a table:
+```sh
+sqlite> SELECT * FROM Person;
+```
 
 
 

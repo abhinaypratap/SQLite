@@ -41,7 +41,9 @@ sqlite> .show
 ```sh
 sqlite> .mode column
 ```
-
+```sh
+sqlite> .tables
+```
 
 
 

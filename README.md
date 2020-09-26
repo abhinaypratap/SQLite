@@ -77,4 +77,4 @@ sqlite> .restore tableOne_backup.db
 ### Just small things
 
 - SQL commands are case-insensitive.
-- * means 'all'.
+- \* means 'all'.

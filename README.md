@@ -25,6 +25,10 @@ sqlite> .schema tableName
 ```sh
 sqlite> SELECT * FROM Person;
 ```
+- To get out of sqlite3:
+```sh
+sqlite> .quit
+```
 
 
 

@@ -18,11 +18,3 @@ sqlite> INSERT INTO Person (ID, Name) VALUES (1, "Dr. Rajendra Prasad");
 ```sh
 sqlite> .schema
 ```
-
-```sh
-sqlite> SELECT * FROM Person;
-```
-
-```sh
-sqlite> .quit
-```

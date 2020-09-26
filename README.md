@@ -38,6 +38,9 @@ sqlite> .width 2 10 10 10 30 6
 ```sh
 sqlite> .show
 ```
+```sh
+sqlite> .mode column
+```
 
 
 

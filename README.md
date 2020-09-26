@@ -44,6 +44,9 @@ sqlite> .mode column
 ```sh
 sqlite> .tables
 ```
+```sh
+sqlite> .headers on
+```
 
 
 

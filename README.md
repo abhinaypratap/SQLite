@@ -32,7 +32,9 @@ sqlite> .quit
 ```sh
 sqlite> .q
 ```
-
+```sh
+sqlite> .width 2 10 10 10 30 6
+```
 
 
 

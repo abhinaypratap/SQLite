@@ -56,7 +56,9 @@ sqlite> DROP TABLE tableName;
 sqlite> .backup tableOne_backup.db
 ```
 
-
+```sh
+sqlite> .restore tableOne_backup.db
+```
 
 
 

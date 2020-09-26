@@ -1,7 +1,7 @@
 # SQLite
 
 ### Terminal Commands
-#### (ongoing)
+#### ongoing...
 
 ```sh
 $ sqlite3 Database.db;

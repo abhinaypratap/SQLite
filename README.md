@@ -48,6 +48,9 @@ sqlite> .tables
 sqlite> .headers on
 ```
 
+```sh
+sqlite> DROP TABLE tableName;
+```
 
 
 

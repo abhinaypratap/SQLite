@@ -52,6 +52,9 @@ sqlite> .headers on
 sqlite> DROP TABLE tableName;
 ```
 
+```sh
+sqlite> .backup tableOne_backup.db
+```
 
 
 

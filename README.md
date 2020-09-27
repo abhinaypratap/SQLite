@@ -80,5 +80,7 @@ sqlite> .restore tableOne_backup.db
 - Open-source database
 - Lightweight (~250kb to implement)
 - Embedded
+- Relational Database Management System (RDBMS)
+- Serverless
 - SQL commands are case-insensitive.
 - \* means 'all'.

@@ -1,7 +1,8 @@
 # SQLite
+#### ongoing...
+
 
 ### Terminal Commands
-#### ongoing...
 
 ```sh
 $ sqlite3 Database.db;
@@ -76,5 +77,8 @@ sqlite> .restore tableOne_backup.db
 
 ### Just small things
 
+- Open-source database
+- Lightweight (~250kb to implement)
+- Embedded
 - SQL commands are case-insensitive.
 - \* means 'all'.

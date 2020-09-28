@@ -82,5 +82,15 @@ sqlite> .restore tableOne_backup.db
 - Embedded
 - Relational Database Management System (RDBMS)
 - Serverless
+- Zero configuration
 - SQL commands are case-insensitive.
 - \* means 'all'.
+
+
+## Data types in SQLite:
+
+- INTEGER
+- REAL
+- TEXT
+- NULL
+- BLOB (Binary Large OBject)

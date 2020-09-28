@@ -79,18 +79,35 @@ sqlite> .restore tableOne_backup.db
 
 - Open-source database
 - Lightweight (~250kb to implement)
-- Embedded
+- Embedded or Self-Contained, (no external dependencies(libraries) are needed)
 - Relational Database Management System (RDBMS)
 - Serverless
 - Zero configuration
-- SQL commands are case-insensitive.
-- \* means 'all'.
+- SQL commands are case-insensitive
+- \* means 'all'
+- Written in C language
+- It is ACID compliant RDBMS: 
+	- A:Atomicity
+	- C:Consistency
+	- I:Isolation
+	- D:Durability
 
 
-## Data types in SQLite:
+## Storage Classes (Data types) in SQLite:
 
 - INTEGER
 - REAL
 - TEXT
 - NULL
 - BLOB (Binary Large OBject)
+
+
+##
+
+- SELECT
+- CREATE
+- INSERT
+- UPDATE
+- DROP
+- DELETE
+

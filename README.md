@@ -103,7 +103,6 @@ sqlite> .restore tableOne_backup.db
 
 - Boolean values in SQLite are stored as integers 0 (false) and 1 (true).  SQLite does not have a separate Boolean storage class.
 
-- [ ] A
 ##
 
 - SELECT

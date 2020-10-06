@@ -76,6 +76,12 @@ sqlite> UPDATE tableName SET columnName = "quotes only for text or string" WHERE
 sqlite> ALTER TABLE tableName ADD COLUMN columnName columnDataType;
 ```
 
+## Modifications on existing table:
+- `ALTER TABLE`
+	1. Rename a table
+	2. Add a new column to a table
+	3, Rename a column
+
 ### Just small things
 
 - Open-source database

@@ -65,19 +65,11 @@ sqlite> .backup tableOne_backup.db
 sqlite> .restore tableOne_backup.db
 ```
 
+* Update something in a record:
 
-
-
-
-
-
-
-
-
-
-
-
-
+```sh
+sqlite> UPDATE tableName SET columnName = "quotes only for text or string" WHERE rowid = 3;
+```
 
 ### Just small things
 

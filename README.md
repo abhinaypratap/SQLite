@@ -71,6 +71,11 @@ sqlite> .restore tableOne_backup.db
 sqlite> UPDATE tableName SET columnName = "quotes only for text or string" WHERE rowid = 3;
 ```
 
+* Add a column to a table:
+```sh
+sqlite> ALTER TABLE tableName ADD COLUMN columnName columnDataType;
+```
+
 ### Just small things
 
 - Open-source database

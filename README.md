@@ -102,7 +102,7 @@ sqlite> ALTER TABLE tableName RENAME TO newTableName;
 	- C:Consistency
 	- I:Isolation
 	- D:Durability
-
+- Dynamic Typing
 
 ## Storage Classes (Data types) in SQLite:
 

@@ -113,6 +113,8 @@ sqlite> ALTER TABLE tableName RENAME TO newTableName;
 - BLOB (Binary Large OBject)
 
 - Boolean values in SQLite are stored as integers 0 (false) and 1 (true).  SQLite does not have a separate Boolean storage class.
+- VARCHAR(N)
+- String
 
 ##
 
@@ -123,3 +125,7 @@ sqlite> ALTER TABLE tableName RENAME TO newTableName;
 - DROP
 - DELETE
 
+## Constraints
+
+- UNIQUE
+- NOT NULL

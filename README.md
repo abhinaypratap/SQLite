@@ -129,3 +129,5 @@ sqlite> ALTER TABLE tableName RENAME TO newTableName;
 
 - UNIQUE
 - NOT NULL
+- CHECK
+- PRIMARY KEY

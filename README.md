@@ -88,7 +88,8 @@ sqlite> ALTER TABLE tableName RENAME TO newTableName;
 
 ### Just small things
 
-- Open-source database
+- SQL
+- Open-source database, free
 - Lightweight (~250kb to implement)
 - Embedded or Self-Contained, (no external dependencies(libraries) are needed)
 - Relational Database Management System (RDBMS)

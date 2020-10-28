@@ -84,11 +84,10 @@ sqlite> ALTER TABLE tableName RENAME TO newTableName;
 - `ALTER TABLE`
 	1. Rename a table
 	2. Add a new column to a table
-	3, Rename a column
+	3. Rename a column
 
 ### Just small things
 
-- SQL
 - Open-source database, free
 - Lightweight (~250kb to implement)
 - Embedded or Self-Contained, (no external dependencies(libraries) are needed)
@@ -112,7 +111,6 @@ sqlite> ALTER TABLE tableName RENAME TO newTableName;
 - TEXT
 - NULL
 - BLOB (Binary Large OBject)
-
 - Boolean values in SQLite are stored as integers 0 (false) and 1 (true).  SQLite does not have a separate Boolean storage class.
 - VARCHAR(N)
 - String

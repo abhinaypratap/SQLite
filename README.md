@@ -85,7 +85,8 @@ sqlite> ALTER TABLE tableName RENAME TO newTableName;
 	1. Rename a table
 	2. Add a new column to a table
 	3. Rename a column
-
+- Cannot delete a column directly
+- To remove a column, make a new temporary table, copy all the columns to this table except the undesired one, delete(DROP) the original table, create it again and copy the columns from the temporary table, then delete the temporary table
 ### Just small things
 
 - Open-source database, free
